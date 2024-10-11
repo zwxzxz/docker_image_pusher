@@ -3,4 +3,5 @@
 #支持私库
 gcr.io/kubecost1/kubecost-modeling:v0.1.16
 grafana/loki:3.0.0
+docker.mirrors.sjtug.sjtu.edu.cn/grafana/loki:2.8.2
 
