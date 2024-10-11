@@ -2,4 +2,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #支持私库
 gcr.io/kubecost1/kubecost-modeling:v0.1.16
+grafana/loki:3.0.0
 
