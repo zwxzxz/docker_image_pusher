@@ -5,5 +5,7 @@
 #gcr.io/kubecost1/kubecost-modeling:v0.1.16
 #grafana/loki:3.0.0
 #grafana/loki:2.8.2
+#grafana/promtail
 
-grafana/promtail
+docker.getoutline.com/outlinewiki/outline:latest
+
