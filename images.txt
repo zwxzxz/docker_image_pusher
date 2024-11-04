@@ -7,6 +7,6 @@
 #grafana/loki:2.8.2
 #grafana/promtail
 #docker.getoutline.com/outlinewiki/outline:latest
+#mysql:8.0.19
 
-mysql:8.0.19
-
+mongo:4.2
