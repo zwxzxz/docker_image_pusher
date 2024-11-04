@@ -8,5 +8,6 @@
 #grafana/promtail
 #docker.getoutline.com/outlinewiki/outline:latest
 #mysql:8.0.19
+#mongo:4.2
 
-mongo:4.2
+apache/seatunnel:2.3.8
