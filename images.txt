@@ -9,5 +9,6 @@
 #docker.getoutline.com/outlinewiki/outline:latest
 #mysql:8.0.19
 #mongo:4.2
+#apache/seatunnel:2.3.8
 
-apache/seatunnel:2.3.8
+mysql:8.0.28
