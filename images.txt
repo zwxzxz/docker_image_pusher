@@ -12,5 +12,6 @@
 #apache/seatunnel:2.3.8
 #mysql:8.0.28
 #redis:7.0.4
+#nacos/nacos-server:v2.0.4
 
-nacos/nacos-server:v2.0.4
+busybox:1.32
