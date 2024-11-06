@@ -10,5 +10,6 @@
 #mysql:8.0.19
 #mongo:4.2
 #apache/seatunnel:2.3.8
+#mysql:8.0.28
 
-mysql:8.0.28
+redis:7.0.4
