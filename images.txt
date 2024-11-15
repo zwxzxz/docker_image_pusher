@@ -14,5 +14,5 @@
 #redis:7.0.4
 #nacos/nacos-server:v2.0.4
 #busybox:1.32
-
-alpine/curl
+#alpine/curl
+iotdb:0.13.4-node
