@@ -16,4 +16,4 @@
 #busybox:1.32
 #alpine/curl
 
-iotdb:0.13.4-node
+apache/iotdb:0.13.4-node
