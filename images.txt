@@ -15,5 +15,6 @@
 #nacos/nacos-server:v2.0.4
 #busybox:1.32
 #alpine/curl
+#apache/iotdb:0.13.4-node
 
-apache/iotdb:0.13.4-node
+python:3.12-slim
