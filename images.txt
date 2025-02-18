@@ -17,7 +17,9 @@
 #alpine/curl
 #apache/iotdb:0.13.4-node
 #python:3.12-slim
-
 #osixia/openldap:latest
 #osixia/phpldapadmin:latest
-tiredofit/self-service-password:latest
+#tiredofit/self-service-password:latest
+
+sameersbn/bind:latest
+sameersbn/bind:9.11.3-20200507
