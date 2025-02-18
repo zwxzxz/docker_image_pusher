@@ -16,5 +16,7 @@
 #busybox:1.32
 #alpine/curl
 #apache/iotdb:0.13.4-node
+#python:3.12-slim
 
-python:3.12-slim
+osixia/openldap:latest
+osixia/phpldapadmin:latest
