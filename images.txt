@@ -18,5 +18,6 @@
 #apache/iotdb:0.13.4-node
 #python:3.12-slim
 
-osixia/openldap:latest
-osixia/phpldapadmin:latest
+#osixia/openldap:latest
+#osixia/phpldapadmin:latest
+tiredofit/self-service-password:latest
