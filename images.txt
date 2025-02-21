@@ -20,6 +20,6 @@
 #osixia/openldap:latest
 #osixia/phpldapadmin:latest
 #tiredofit/self-service-password:latest
-
-sameersbn/bind:latest
-sameersbn/bind:9.11.3-20200507
+#sameersbn/bind:latest
+#sameersbn/bind:9.11.3-20200507
+collabora/code:24.04.11.3.1
