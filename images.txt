@@ -24,5 +24,6 @@
 #sameersbn/bind:9.11.3-20200507
 #collabora/code:24.04.11.3.1
 #collabora/code:6.4.14.2
+#docker.n8n.io/n8nio/n8n:latest
 
-docker.n8n.io/n8nio/n8n:latest
+authelia/authelia:4.39
