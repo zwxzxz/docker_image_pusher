@@ -29,5 +29,6 @@
 #authelia/authelia:4.38
 #authelia/authelia:4.36
 #apache/flink:1.13.1-scala_2.11
+#ghcr.io/apache/flink-kubernetes-operator
 
-ghcr.io/apache/flink-kubernetes-operator
+influxdb:2.7.12
