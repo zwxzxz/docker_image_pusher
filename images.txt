@@ -36,5 +36,6 @@
 #mongo:4.4.29
 #feiyu563/prometheus-alert:v4.9.1
 #emqx/emqx:5.8.7
+#openjdk:8u342-jre
 
-openjdk:8u342-jre
+docker.n8n.io/n8nio/n8n
