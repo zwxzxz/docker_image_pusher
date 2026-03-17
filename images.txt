@@ -43,5 +43,6 @@
 #lscr.io/linuxserver/webtop:ubuntu-xfce
 #rancher/local-path-provisioner:v0.0.33
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
-minio/minio:RELEASE.2023-10-25T06-33-25Z
+#minio/minio:RELEASE.2023-10-25T06-33-25Z
+immauss/openvas:26.02.28.01-slim
 
