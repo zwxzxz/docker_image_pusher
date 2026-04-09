@@ -45,4 +45,6 @@
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 #minio/minio:RELEASE.2023-10-25T06-33-25Z
 #immauss/openvas:26.02.28.01-slim
-immauss/openvas:26.02.28.01
+#immauss/openvas:26.02.28.01
+
+mirror.gcr.io/aquasec/trivy-db:2
