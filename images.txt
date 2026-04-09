@@ -47,4 +47,3 @@
 #immauss/openvas:26.02.28.01-slim
 #immauss/openvas:26.02.28.01
 
-docker.io/aquasec/trivy-db:2
