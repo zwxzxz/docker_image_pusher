@@ -47,3 +47,5 @@
 #immauss/openvas:26.02.28.01-slim
 #immauss/openvas:26.02.28.01
 
+registry.community.greenbone.net/community/vulnerability-tests
+
