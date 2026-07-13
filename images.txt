@@ -69,4 +69,6 @@
 #registry.community.greenbone.net/community/gvm-tools
 #apache/flink-kubernetes-operator:51eeae1
 #langgenius/dify-api:1.14.2
-langgenius/dify-plugin-daemon:0.6.1-local
+#langgenius/dify-plugin-daemon:0.6.1-local
+
+ghcr.io/lanbaoshen/mcp-jenkins:latest
