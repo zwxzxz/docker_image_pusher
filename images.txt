@@ -67,6 +67,6 @@
 #registry.community.greenbone.net/community/openvas-scanner:stable
 #registry.community.greenbone.net/community/ospd-openvas:stable
 #registry.community.greenbone.net/community/gvm-tools
+#apache/flink-kubernetes-operator:51eeae1
 
-apache/flink-kubernetes-operator:51eeae1
-
+langgenius/dify-api:1.14.2
