@@ -71,4 +71,5 @@
 #langgenius/dify-api:1.14.2
 #langgenius/dify-plugin-daemon:0.6.1-local
 #ghcr.io/lanbaoshen/mcp-jenkins:latest
-coturn/coturn:4.15.0
+#coturn/coturn:4.15.0
+eclipse-temurin:8u504-b01-jre-slim
