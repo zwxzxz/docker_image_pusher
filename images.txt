@@ -75,5 +75,6 @@
 #eclipse-temurin:8u492-b09-jre-jammy
 #nvcr.io/nvidia/k8s/dcgm-exporter:4.6.1-4.8.4
 
-apache/skywalking-oap-server:11.0.0
-apache/skywalking-ui:horizon-1.0.1
+#apache/skywalking-oap-server:11.0.0
+#apache/skywalking-ui:horizon-1.0.1
+apache/skywalking-banyandb:0.11.0
